@@ -116,3 +116,4 @@ async def envia_mensagem_se_necessario(msg, chat_id, my_token):
 asyncio.run(envia_mensagem_se_necessario(msg, chat_id, my_token))
 
 """
+
